@@ -1,0 +1,11 @@
+#map{
+    height: 80vh;
+    margin-top: 10px;
+}
+#focus{
+    text-align: center;
+}
+#focus button{
+    font-size: 2rem;
+    margin: 20px;
+}
